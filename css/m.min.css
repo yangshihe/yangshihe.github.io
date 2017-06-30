@@ -791,7 +791,7 @@ img {
 }
 
 .c_pay_box {
-    width: 30%;
+    width: 50%;
     position: static;
     transform:translateX(0);
     -webkit-transform: translateX(0);
