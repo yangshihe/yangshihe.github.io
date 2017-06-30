@@ -758,6 +758,10 @@ img {
     background-color: #ea6f5a;
 }
 
+.c_pay:hover, .c_pay:visited, .c_pay:link, .c_pay:active {
+    color: #fff;
+    background-color: #ea6f5a;
+}
 .c_pay_box {
     width: 30%;
     position: static;
@@ -798,10 +802,6 @@ img {
     }
     .c_pay_box {
         width: 70%;
-        position: static;
-        transform:translateX(0);
-        -webkit-transform: translateX(0);
-        display: none;
     }
 }
 
