@@ -222,15 +222,12 @@ img {
 }
 
 .c_pay {
-    display: inline-block;margin-bottom:0;
-    font-weight: 400;
+    display: inline-block;
     text-align: center;
     vertical-align: middle;
     touch-action: manipulation;
-    background-image: none;
-    border: 1px solid transparent;
+    border: 1px solid transition;
     white-space: nowrap;
-    padding: 6px 12px;
     font-size: 14px;
     line-height: 1.42857;
     border-radius: 4px;
@@ -238,9 +235,7 @@ img {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-}
-.c_pay {
-    margin:0 auto 20px auto;
+    margin: 0 auto 20px auto;
     padding: 8px 25px;
     font-size: 16px;
     color: #fff;
@@ -248,8 +243,9 @@ img {
 }
 
 .c_pay_box {
-    width:30%;
-    position:static;transform::translateX(0);
-    -webkit-transform:translateX(0);
-    display:none;
+    width: 30%;
+    position: static;
+    transform: : translateX(0);
+    -webkit-transform: translateX(0);
+    display: none;
 }
