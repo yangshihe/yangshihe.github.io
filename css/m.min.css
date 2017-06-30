@@ -763,7 +763,7 @@ img {
     background-color: #ea6f5a;
 }
 .c_pay_box {
-    width: 30%;
+    width: 70%;
     position: static;
     transform:translateX(0);
     -webkit-transform: translateX(0);
@@ -800,9 +800,7 @@ img {
     .post ul {
         margin-left: -10px
     }
-    .c_pay_box {
-        width: 70%;
-    }
+
 }
 
 /*# sourceMappingURL=themes/pln/source/css/m.min.css.map */
