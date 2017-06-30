@@ -1,74 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>船长的博客</title>
+  <title>小船长</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yangshihe.me/"/>
-  <updated>2017-06-28T07:43:16.393Z</updated>
+  <updated>2017-06-30T03:15:53.445Z</updated>
   <id>http://yangshihe.me/</id>
   
   <author>
-    <name>doyangyang</name>
+    <name>DoYY</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>友情链接</title>
-    <link href="http://yangshihe.me/2017/links.html"/>
-    <id>http://yangshihe.me/2017/links.html</id>
-    <published>2017-06-28T07:41:20.331Z</published>
-    <updated>2017-06-28T07:43:16.393Z</updated>
+    <title>7月</title>
+    <link href="http://yangshihe.me/life/7yue.html"/>
+    <id>http://yangshihe.me/life/7yue.html</id>
+    <published>2017-06-30T02:51:54.255Z</published>
+    <updated>2017-06-30T03:15:53.445Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="日后再说"><a href="#日后再说" class="headerlink" title="日后再说"></a>日后再说</h3><p>亲们,后来的在后面，请速来报道。</p>
+    <content type="html"><![CDATA[<h2 id="又是一个曾经放暑假的好耍的月份"><a href="#又是一个曾经放暑假的好耍的月份" class="headerlink" title="又是一个曾经放暑假的好耍的月份"></a>又是一个曾经放暑假的好耍的月份</h2><p><img src="/images/1yue.jpg"><br>马上就到7月了,今年又过去了大半年,5月忙忙碌碌,6月静悄悄,不知道7月将会怎样,我已经不知道在未来该何去何从,谁能救赎🚶我, 我的出口🚥在那里。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;日后再说&quot;&gt;&lt;a href=&quot;#日后再说&quot; class=&quot;headerlink&quot; title=&quot;日后再说&quot;&gt;&lt;/a&gt;日后再说&lt;/h3&gt;&lt;p&gt;亲们,后来的在后面，请速来报道。&lt;/p&gt;
-
+      &lt;h2 id=&quot;又是一个曾经放暑假的好耍的月份&quot;&gt;&lt;a href=&quot;#又是一个曾经放暑假的好耍的月份&quot; class=&quot;headerlink&quot; title=&quot;又是一个曾经放暑假的好耍的月份&quot;&gt;&lt;/a&gt;又是一个曾经放暑假的好耍的月份&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/images/
     
     </summary>
     
+      <category term="生活" scheme="http://yangshihe.me/categories/life/"/>
     
-  </entry>
-  
-  <entry>
-    <title>关于我</title>
-    <link href="http://yangshihe.me/2017/about.html"/>
-    <id>http://yangshihe.me/2017/about.html</id>
-    <published>2017-06-28T03:48:54.000Z</published>
-    <updated>2017-06-28T09:03:52.052Z</updated>
-    
-    <content type="html"><![CDATA[<hr>
-<blockquote>
-<p>一个喜欢写点代码的少年,<br>有时候处于半疯癫状态<br>身体好点了再来写吧</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一个喜欢写点代码的少年,&lt;br&gt;有时候处于半疯癫状态&lt;br&gt;身体好点了再来写吧&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-    </summary>
-    
-    
-      <category term="about" scheme="http://yangshihe.me/tags/about/"/>
     
   </entry>
   
   <entry>
     <title>博客上线</title>
-    <link href="http://yangshihe.me/2017/oneday.html"/>
-    <id>http://yangshihe.me/2017/oneday.html</id>
+    <link href="http://yangshihe.me/oneday/oneday.html"/>
+    <id>http://yangshihe.me/oneday/oneday.html</id>
     <published>2017-06-21T03:13:43.509Z</published>
-    <updated>2017-06-28T09:02:59.497Z</updated>
+    <updated>2017-06-30T01:20:46.479Z</updated>
     
     <content type="html"><![CDATA[<h2 id="看到这篇文章-说明博客搭建成功"><a href="#看到这篇文章-说明博客搭建成功" class="headerlink" title="看到这篇文章 说明博客搭建成功"></a>看到这篇文章 说明博客搭建成功</h2><p><img src="/images/306361.jpg"><br>几年前还有在百度上写过一些小段落，后来不知道咋地就关闭了这块，也是很久没有写博客了，差不多已经没有感觉在动动手指。然而呢，生活总是没有什么改变，匆匆忙忙不知道自己活了什么。<br>所以，不废话了这只是一篇开头的白，往后可能就要写下生活和工作的一些事儿了，因为很有可能会有一场说走就走的旅行🚲。</p>
 ]]></content>
@@ -79,17 +52,17 @@
     
     </summary>
     
+      <category term="随意" scheme="http://yangshihe.me/categories/oneday/"/>
     
-      <category term="oneday" scheme="http://yangshihe.me/tags/oneday/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yangshihe.me/2017/hello-world.html"/>
-    <id>http://yangshihe.me/2017/hello-world.html</id>
+    <link href="http://yangshihe.me/oneday/hello-world.html"/>
+    <id>http://yangshihe.me/oneday/hello-world.html</id>
     <published>2017-06-21T02:45:52.573Z</published>
-    <updated>2017-06-28T07:32:53.935Z</updated>
+    <updated>2017-06-30T01:20:23.031Z</updated>
     
     <content type="html"><![CDATA[<p>是的，没错 这个就是生成博客遗留下来的Hello World.</p>
 <blockquote>
@@ -110,6 +83,8 @@
 
     
     </summary>
+    
+      <category term="随意" scheme="http://yangshihe.me/categories/oneday/"/>
     
     
   </entry>

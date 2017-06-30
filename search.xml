@@ -3,50 +3,38 @@
   
     
     <entry>
-      <title><![CDATA[友情链接]]></title>
-      <url>/2017/links.html</url>
-      <content type="html"><![CDATA[<h3 id="日后再说"><a href="#日后再说" class="headerlink" title="日后再说"></a>日后再说</h3><p>亲们,后来的在后面，请速来报道。</p>
+      <title><![CDATA[7月]]></title>
+      <url>/life/7yue.html</url>
+      <content type="html"><![CDATA[<h2 id="又是一个曾经放暑假的好耍的月份"><a href="#又是一个曾经放暑假的好耍的月份" class="headerlink" title="又是一个曾经放暑假的好耍的月份"></a>又是一个曾经放暑假的好耍的月份</h2><p><img src="/images/1yue.jpg"><br>马上就到7月了,今年又过去了大半年,5月忙忙碌碌,6月静悄悄,不知道7月将会怎样,我已经不知道在未来该何去何从,谁能救赎🚶我, 我的出口🚥在那里。</p>
 ]]></content>
       
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[关于我]]></title>
-      <url>/2017/about.html</url>
-      <content type="html"><![CDATA[<hr>
-<blockquote>
-<p>一个喜欢写点代码的少年,<br>有时候处于半疯癫状态<br>身体好点了再来写吧</p>
-</blockquote>
-]]></content>
-      
-        
-        <tags>
+        <categories>
             
-            <tag> about </tag>
+            <category> 生活 </category>
             
-        </tags>
+        </categories>
+        
         
     </entry>
     
     <entry>
       <title><![CDATA[博客上线]]></title>
-      <url>/2017/oneday.html</url>
+      <url>/oneday/oneday.html</url>
       <content type="html"><![CDATA[<h2 id="看到这篇文章-说明博客搭建成功"><a href="#看到这篇文章-说明博客搭建成功" class="headerlink" title="看到这篇文章 说明博客搭建成功"></a>看到这篇文章 说明博客搭建成功</h2><p><img src="/images/306361.jpg"><br>几年前还有在百度上写过一些小段落，后来不知道咋地就关闭了这块，也是很久没有写博客了，差不多已经没有感觉在动动手指。然而呢，生活总是没有什么改变，匆匆忙忙不知道自己活了什么。<br>所以，不废话了这只是一篇开头的白，往后可能就要写下生活和工作的一些事儿了，因为很有可能会有一场说走就走的旅行🚲。</p>
 ]]></content>
       
+        <categories>
+            
+            <category> 随意 </category>
+            
+        </categories>
         
-        <tags>
-            
-            <tag> oneday </tag>
-            
-        </tags>
         
     </entry>
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2017/hello-world.html</url>
+      <url>/oneday/hello-world.html</url>
       <content type="html"><![CDATA[<p>是的，没错 这个就是生成博客遗留下来的Hello World.</p>
 <blockquote>
 <blockquote>
@@ -55,6 +43,12 @@
 </blockquote>
 ]]></content>
       
+        <categories>
+            
+            <category> 随意 </category>
+            
+        </categories>
+        
         
     </entry>
     
