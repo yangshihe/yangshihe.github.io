@@ -221,6 +221,7 @@ $(".c_pay").on("click",function(event) {
         obj = $(".c_pay_box[data-type='wx']");
     }
     obj.toggle("slow");
+    $("body").animate({scrollTop:obj.offset().top}, 1000);
 });
 
 });
